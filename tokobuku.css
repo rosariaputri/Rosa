@@ -1,0 +1,249 @@
+.container{
+    width: 90%;
+    height: 2000px;
+    background-color: gray;
+    margin: auto;
+}
+.logo{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.gbr{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.sosmed{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: green;
+    display: flex;
+    justify-content: flex-start;
+}
+.beranda{
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine; 
+}
+.layanan{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+}
+.kontak-menu{
+    width: 80px;
+    height: 50px;
+   background-color: burlywood;
+}
+.email{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+}
+.promosi-menu{
+    width: 80px;
+    height: 50px;
+    background-color: red;
+}
+.arsip{
+    width: 50px;
+    height: 50px;
+    background-color: deepskyblue;
+}
+.gambar-utama{
+    width: 100%;
+    height: 300px;
+    background-color: skyblue;
+    display: flex;
+}
+.teks-gambar{
+    width: 40%;
+    height: 200px;
+    background-color: greenyellow;
+    margin: auto;
+}
+.gambar-promosi{
+    width: 15%;
+    height: 250px;
+    background-color: cadetblue;
+    margin: auto;
+}
+.kontak{
+    width: 80%;
+    height: 100px;
+    background-color: aquamarine;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.kontakperson{
+    width: 20%;
+    height: 50px;
+    background-color: chocolate;
+}
+.pengiriman{
+    width: 20%;
+    height: 50px;
+    background-color: aqua;
+    background-color: yellow;    
+}
+.pembayaran{
+     width: 20%;
+    height: 50px;
+    background-color: yellowgreen;  
+}
+.promosi{
+    width: 80%;
+    height: 300px;
+    background-color: green;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ebooks{
+    width: 25%;
+    height: 200px;
+    background-color: darksalmon;
+}
+.text-books{
+    width: 25%;
+    height: 200px;
+    background-color: darkred;
+}
+.offter-zone{
+    width: 25%;
+    height: 200px;
+    background-color: goldenrod;
+}
+.pemesanan{
+    width: 30%;
+    height: 40px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+}
+.rosa{
+    width: 30%;
+    height: 30px;
+    background-color: blueviolet;
+}
+.lisa{
+    width: 30%;
+    height: 30px;
+    background-color: yellow;
+}
+.jiso{
+    width: 30%;
+    height: 30px;
+    background-color: black;
+}
+.daftar-harga{
+    width: 80%;
+    height: 300px;
+    background-color: blue;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.buku1{
+    width: 10%;
+    height: 250px;
+    background-color: dimgrey;  
+}
+.buku2{
+    width: 10%;
+    height: 250px;
+    background-color: cadetblue;
+}
+.buku3{
+    width: 10%;
+    height: 250px;
+    background-color: coral;
+}
+.buku4{
+    width: 10%;
+    height: 250px;
+    background-color: darkgray;
+}
+.buku5{
+    width: 10%;
+    height: 250px;
+    background-color: firebrick;
+}
+.alamat{
+    width: 100%;
+    height: 360px;
+    background-color: forestgreen;
+}
+.tulisan{
+    width: 100%;
+    height: 150px;
+    background-color: whitesmoke;
+}
+.gambar{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+}
+.gbr1{
+    width: 100%;
+}
+.gbr2{
+    width: 200px;
+    height: 100px;
+}
+.gbr3{
+    width: 100%;
+}
+.gbr4{
+    width: 100%;
+    height: 250px;
+}
+.gbr5{
+    width: 100%;
+    height: 250px;
+}
+.gbr6{
+    width: 100%;
+    height: 250px;
+}
+.gbr7{
+    width: 100%;
+    height: 250px;
+}
+.gbr8{
+    width: 100%;
+    height: 250px;
+}
+.gbr9{
+    width: 100%;
+    height: 200px;
+}
+.gbr10{
+    width: 100%;
+    height: 200px;
+}
+.gbr11{
+    width: 100%;
+    height: 200px;
+}
+p{
+    color: black;
+    text-align: center;
+}
+
+

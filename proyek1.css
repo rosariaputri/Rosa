@@ -1,0 +1,181 @@
+*{
+  margin: 0;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    display: flex;
+}
+.personal{
+    width: 40%;
+    height: 100px;
+    background-color: aqua;
+}
+.menubar{
+    width: 60%;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+}
+p{
+    color: white;
+}
+.submenu{
+    padding: 35px;
+}
+.submenu:hover{
+    background-color: black;
+}
+img{
+    width: 43%;
+}
+.gbr-utama{
+    width: 100%;
+    height: 500px;
+   /* background-color: gray;*/
+    display: flex;
+}
+.judul-kiri{
+    width: 50%;
+    height: 500px;
+ /*   background-color: orange;*/
+}
+.gbr-kanan{
+    width: 50%;
+    height: 500px;
+   /* background-color: aqua;*/
+}
+.nama-kiri{
+    width: 80%;
+    height: 300px;
+  /*  background-color: brown;*/
+    margin: auto;
+    margin-top: 150px;
+}
+.tombol-kiri{
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.teks-nama{
+    color: black;
+    padding-bottom: 20px;
+}
+#tbl-kiri{
+    color: white;
+    padding-top: 12px;
+    padding-left: 30px;
+}
+#tbl-kiri:hover{
+    background-color: black;
+    border-radius: 10px;
+}
+.gbr1{
+    width:490px;
+    height: 400px
+}
+.gbrorang{
+    width: 100%; 
+    margin: auto;
+   
+}
+.content{
+    width: 100%;
+    height: 500px;
+   /* background-color: gray;*/
+    display: flex;
+}
+.menu-kiri{
+    width: 20%;
+    height: 500px;
+ /*   background-color: red;*/
+    
+}
+.isi{
+    width: 60%;
+    height: 4000px;
+   /* background-color: blue;*/
+    
+}
+.menu-kanan{
+    width: 20%;
+    height: 1000px;
+    background-color: yellow;
+}
+.koleksi-gambar{
+    width: 100%;
+    height: 500px;
+   /* background-color: brown;*/
+    display: flex;
+}
+.koleksi{
+    width: 40%;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+}
+#Artikel{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#saya{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.img2{
+    width: 100%;
+    height: 202px;        
+}
+h3:hover{
+    background-color: gray;   
+}
+li:hover{
+    background-color: silver;
+}
+ul{
+    margin-left: 50px;
+}
+#saya{
+    margin-left: 40px;
+    margin-left: 40px;
+}
+#Artikel{
+    margin-left: 40px;
+}
+#About{
+    width: 100%;
+    height: 500px;
+   /* background-color: bisque;*/
+}
+.info-diri{
+    color: black;
+}
+#Servise{
+    width: 100%;
+    height: 500px;
+}
+#Hobi{
+    width: 100%;
+    height: 500px;
+}
+#Makanan favorite{
+    width: 100%;
+    height: 500px;
+}
+#Aku{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.img3{
+    width: 50%;
+    height: 250px;
+    position: relative;
+    padding-top: 30px;
+}
+
+
+
+
+
